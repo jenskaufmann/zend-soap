@@ -1,12 +1,12 @@
 {
-    "name": "zendframework/zend-soap",
+    "name": "jenskaufmann/zend-soap",
     "description": " ",
     "license": "BSD-3-Clause",
     "keywords": [
         "zf2",
         "soap"
     ],
-    "homepage": "https://github.com/zendframework/zend-soap",
+    "homepage": "https://github.com/jenskaufmann/zend-soap/",
     "autoload": {
         "psr-4": {
             "Zend\\Soap\\": "src/"
